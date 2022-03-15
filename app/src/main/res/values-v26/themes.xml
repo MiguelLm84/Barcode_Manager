@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App_Barcode.NavigationDrawerBackground">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:iconTint">?attr/colorPrimaryVariant</item>
+        <item name="android:backgroundTintMode">screen</item>
+        <item name="android:windowBackground">?attr/colorOnSurface</item>
+    </style>
+    <style name="NavigationNormalSize" parent="">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:iconTint">?attr/colorPrimaryVariant</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="NavigationLargeSize" parent="">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:iconTint">?attr/colorPrimaryVariant</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="NavigationExtraLargeSize" parent="">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:iconTint">?attr/colorPrimaryVariant</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

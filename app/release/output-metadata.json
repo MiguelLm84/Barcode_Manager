@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.miguel_lm.app_barcode",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 276,
+      "versionName": "2.1.4",
+      "outputFile": "barcode.apk"
+    }
+  ],
+  "elementType": "File"
+}

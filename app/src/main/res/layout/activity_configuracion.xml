@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activities.ConfiguracionActivity">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="10dp"
+        android:contentDescription="@string/todo"
+        android:visibility="gone"
+        app:cardBackgroundColor="#FFFFFF"
+        app:contentPadding="1dp"
+        app:layout_constraintBottom_toBottomOf="@+id/top_view_confg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:foreground="@drawable/logo"
+            app:cardBackgroundColor="@android:color/transparent" />
+    </androidx.cardview.widget.CardView>
+
+    <View
+        android:id="@+id/waveBottom_confg"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/wave__5_"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/bottom_view_confg"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:background="?attr/colorPrimaryVariant"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <View
+        android:id="@+id/top_view_confg"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:background="?attr/colorPrimaryVariant"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/waveTopConfg"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="43dp"
+        android:background="@drawable/wave__4_"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/top_view_confg" />
+
+    <TextView
+        android:id="@+id/tv_titulo_confg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginEnd="8dp"
+        android:ems="10"
+        android:fontFamily="@font/barlow"
+        android:text="@string/configuracion"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/top_view_confg"
+        app:layout_constraintEnd_toStartOf="@+id/cardView"
+        app:layout_constraintStart_toStartOf="@+id/top_view_confg"
+        app:layout_constraintTop_toTopOf="@+id/top_view_confg" />
+
+    <EditText
+        android:id="@+id/ed_direccion_ip"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="100dp"
+
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/round_border"
+        android:drawableStart="@drawable/marcador_de_posicion"
+        android:drawablePadding="16dp"
+        android:ems="10"
+        android:fontFamily="@font/barlow"
+        android:gravity="center_vertical"
+        android:hint="@string/direccion_ip"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:maxLength="15"
+        android:padding="10dp"
+        android:textColor="?attr/colorPrimaryVariant"
+        android:textColorHint="?attr/colorOnSecondary"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/waveTopConfg"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <EditText
+        android:id="@+id/ed_puerto"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+
+        android:background="@drawable/round_border"
+        android:drawableStart="@drawable/server__1_"
+        android:drawablePadding="16dp"
+        android:ems="10"
+        android:fontFamily="@font/barlow"
+        android:gravity="center_vertical"
+        android:hint="@string/puerto"
+        android:importantForAutofill="no"
+        android:inputType="number"
+        android:maxLength="5"
+        android:padding="10dp"
+        android:textColor="?attr/colorPrimaryVariant"
+        android:textColorHint="?attr/colorOnSecondary"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ed_direccion_ip"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/btn_aceptar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/round_background"
+        android:fontFamily="@font/barlow"
+        android:onClick="onClickGuardarCofig"
+        android:text="@string/aceptar"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ed_puerto" />
+
+    <ImageView
+        android:id="@+id/btn_volver_confg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="20dp"
+        android:background="@null"
+        android:contentDescription="@string/todo"
+        android:padding="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/top_view_confg"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/flecha"
+        tools:ignore="UnknownIdInLayout" />
+</androidx.constraintlayout.widget.ConstraintLayout>

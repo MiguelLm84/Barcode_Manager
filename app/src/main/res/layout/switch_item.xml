@@ -1,0 +1,22 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Switch
+        android:id="@+id/switchDarkMode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/barlow"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:showText="false"
+        android:text=""
+        android:textColor="?attr/colorPrimaryVariant"
+        android:textSize="14sp"
+        android:thumbTint="?attr/colorPrimaryVariant"
+        android:trackTint="?attr/colorOnSecondary"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+</LinearLayout >

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/empty"
+            android:checkable="false"
+            android:enabled="false"
+            app:showAsAction="never"
+            tools:ignore="MenuTitle" />
+        <item
+            android:id="@+id/principal"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/principal" />
+        <item
+            android:id="@+id/manual"
+            android:icon="@drawable/ic_book_24"
+            android:title="@string/manual_usuario" />
+        <item
+            android:id="@+id/web_descarga"
+            android:icon="@drawable/ic_baseline_web_24"
+            android:title="@string/web_descarga" />
+        <item
+            android:id="@+id/modo_oscuro"
+            android:actionLayout="@layout/switch_item"
+            android:icon="@drawable/ic_baseline_dark_mode_24"
+            android:title="@string/modo_oscuro"
+            app:actionViewClass="android.widget.Switch" />
+        <item
+            android:id="@+id/cerrar_sesion"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="@string/cerrar_sesion" />
+        <item
+            android:id="@+id/personalizacion"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/personalizacion" />
+    </group>
+</menu>

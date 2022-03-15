@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundItemOp">#393E46</color>
+    <color name="backgroundNavDrawer">#878888</color>
+    <color name="backgroundNotify">#FF30343A</color>
+    <color name="naranja">#F57C00</color>
+    <color name="verde">#00C853</color>
+    <color name="purple">#311B92</color>
+    <color name="gris_claro">#E7E5EC</color>
+    <color name="transparente">#00000000</color>
+    <color name="blancoPorDefecto">#fffafafa</color>
+    <color name="colorTextoRadiusLogin">#DBA317</color>
+    <color name="grisAzulado">#263238</color>
+    <color name="rojo">#C60303</color>
+    <color name="rojo2">#A60202</color>
+    <color name="rojo3">#B60101</color>
+    <color name="rojo_oscuro">#650000</color>
+    <color name="rojo_oscuro_spica">#671528</color>
+    <color name="rojo_oscuro2">#3A0000</color>
+    <color name="rojo_claro">#BA7A3838</color>
+    <color name="gris_oscuro">#263238</color>
+    <color name="azul">#1565c0</color>
+    <color name="azul_claro">#74B0F4</color>
+    <color name="azul_prueba">#00428E</color>
+    <color name="azul_prueba2">#011C3C</color>
+</resources>

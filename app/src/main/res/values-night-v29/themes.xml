@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.App_Barcode_DARK_RED" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rojo_oscuro</item>
+        <item name="colorPrimaryVariant">@color/rojo_oscuro</item>
+        <item name="colorOnPrimary">@color/white</item>   <!--@color/azul_prueba-->
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/grisAzulado</item>
+        <item name="colorSecondaryVariant">@color/rojo3</item>  <!--#B60101-->
+        <item name="colorOnSecondary">@color/rojo_claro</item>  <!--"@color/white"-->  <!--"@color/rojo_claro"-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/fondo_negro_rayas_diagonales</item>
+        <!-- Status bar color. -->
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="actionBarStyle">@style/ActionBarStyle</item>
+        <item name="drawerArrowStyle">@style/arrowStyle</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:datePickerStyle">@style/datePickerDarkBarlow</item>
+        <item name="materialCalendarFullscreenTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen</item>
+        <item name="materialCalendarTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.App_Barcode_DARK_BLUE" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul_prueba</item>
+        <item name="colorPrimaryVariant">@color/azul_prueba</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/gris_oscuro</item>
+        <item name="colorSecondaryVariant">@color/azul</item>
+        <item name="colorOnSecondary">@color/azul_claro</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/fondo_negro_rayas_diagonales</item>
+        <!-- Status bar color. -->
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="actionBarStyle">@style/ActionBarStyle</item>
+        <item name="drawerArrowStyle">@style/arrowStyle</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:datePickerStyle">@style/datePickerDarkBarlow</item>
+        <item name="materialCalendarFullscreenTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen</item>
+        <item name="materialCalendarTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="arrowStyle" parent="Base.Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/white</item>
+    </style>
+
+    <style name="rangePickerDarkAzulRussoOne" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/russo_one</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkRojoRussoOne" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/russo_one</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkAzulBebasNeue" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/bebas_neue</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkRojoBebasNeue" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/bebas_neue</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkAzulBarlow" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkRojoBarlow" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkAzulBaseOne" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/base_one</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkRojoBaseOne" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/base_one</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkAzulTaxicab" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/taxicab_bold</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkRojoTaxicab" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/taxicab_bold</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkAzulViga" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/viga</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarAzul</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="rangePickerDarkRojoViga" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/viga</item>
+        <item name="materialCalendarHeaderLayout">@style/MaterialCalendar.HeaderLayout1</item>
+        <item name="materialCalendarStyle">@style/MyMaterialCalendarRojo</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="MyDatePickerTextAppearance" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="MaterialCalendar.HeaderLayout1" parent="Widget.MaterialComponents.MaterialCalendar.HeaderLayout">
+        <item name="android:background">?attr/colorPrimaryVariant</item>
+        <item name="android:dayOfWeekBackground">@color/white</item>
+        <item name="android:calendarTextColor">@color/white</item>
+        <item name="android:yearListSelectorColor">@color/white</item>
+    </style>
+
+    <style name="MyMaterialCalendarRojo" parent="Widget.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="rangeFillColor">@color/rojo_claro</item>
+        <item name="android:strokeColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="MyMaterialCalendarAzul" parent="Widget.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="rangeFillColor">@color/azul_claro</item>
+        <item name="android:strokeColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="MyMaterialCalendar" parent="Widget.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="rangeFillColor">@color/azul_claro</item>
+        <item name="android:strokeColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="datePickerDarkRussoOne" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/russo_one</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="datePickerDarkBebasNeue" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/bebas_neue</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="datePickerDarkBarlow" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="datePickerDarkBaseOne" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/base_one</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="datePickerDarkTaxicab" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/taxicab_bold</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+    <style name="datePickerDarkViga" parent="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen">
+        <item name="colorPrimary">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="elevationOverlayEnabled">false</item>
+        <item name="android:fontFamily">@font/viga</item>
+        <item name="android:headerMonthTextAppearance">@style/MyDatePickerTextAppearance</item>
+    </style>
+
+     <style name="ActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="titleTextStyle">@style/ActionBarTitleTextStyle</item>
+        <item name="android:textAlignment">center</item>
+        <item name="background">?attr/colorPrimaryVariant</item>
+        <item name="android:windowBackground">@drawable/wave__4_</item>
+    </style>
+
+    <style name="SwitchTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="ActionBarTitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="NavigationNormalSize" parent="">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:iconTint" tools:targetApi="o">@color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="NavigationLargeSize" parent="">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:iconTint" tools:targetApi="o">@color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="NavigationExtraLargeSize" parent="">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:iconTint" tools:targetApi="o">@color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="NavigationDrawerTitleTextStyleDark" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@font/barlow</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:iconTint" tools:targetApi="o">@color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    <style name="Theme.App_Barcode.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/transparente</item>
+        <item name="android:navigationBarColor">@color/transparente</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:windowBackground">@drawable/fondo_blanco_gradiant</item>
+    </style>
+    <style name="Theme.App_Barcode_Azul.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/transparente</item>
+        <item name="android:navigationBarColor">@color/transparente</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:windowBackground">@drawable/fondo_blanco_gradiant</item>
+    </style>
+    <style name="Theme.App_Barcode.EtiquetaTituloDetalle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/barlow</item>
+    </style>
+    <style name="Theme.App_Barcode.Spinner">
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">?attr/colorSecondaryVariant</item>
+        <item name="fontFamily">@font/barlow</item>
+        <item name="android:windowBackground">@drawable/round_border</item>
+    </style>
+    <style name="SpinnerTheme" parent="android:Widget.Spinner">
+        <item name="android:background">@drawable/bg_spinner</item>
+    </style>
+    <style name="Theme.App_Barcode.Scanner">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar.Splash">
+        <item name="android:windowBackground">@drawable/fondo_azuldark</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar.SplashRojo">
+        <item name="android:windowBackground">@drawable/fondo_splash_intro_rojo</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar.SplashBlack">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowBackground">@drawable/fondo_splash_intro</item>
+    </style>
+    <style name="MyCardView" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.MaterialCardView.Cut</item>
+        <item name="itemBackground">@drawable/fondo_negro_rayas_diagonales</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialCardView.Cut" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">36dp</item>
+        <item name="cornerSizeTopLeft">36dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+</resources>

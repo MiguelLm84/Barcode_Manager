@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/card_background_nav_drawer.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/fondo_splash_intro_rojo.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/ic_sharp_date_range_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/moon.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/round_border2.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/shape_border_datepicker.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/shape_round_dialog.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/sun.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/barcode.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/bg_spinner.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/card_background.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/card_background_2.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/card_background_login.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/eliminar.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/exit_top_right.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/flecha.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/fondo_splash_intro.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_dark_mode_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_light_mode_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_web_24.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/logo_notificacion.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/logo_transparent_background.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/marcador_de_posicion.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/round_background.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/round_background_v2.xml" value="0.28229166666666666" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/round_border.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/round_border_v2.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape_border.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape_circleindicator.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape_round.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/transition.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/video_camera.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/vista_actionbar.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/wave__4_.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/drawable/wave__5_.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/font/circus_of_innocents.xml" value="0.28" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/font/jockey_one.xml" value="0.284375" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout-v29/fragment_lista.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_cerrar_sesion.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_configuracion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_custom.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_custom_scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_manual_pdf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_reserva.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_splash_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_splash_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/card_background.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/centrar_titulo_actionbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/custom_barcode_scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_barcode_no_encontrado.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_config.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_eliminar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_lectura_cancelada.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_nuevo_escaneo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_selector_proyectos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/drawer_header.xml" value="0.4" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/drawer_toolbar.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment__scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_cerrar_sesion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_contenedor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_lista.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_manual.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_web_descarga.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/item_progress_footer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/item_proyecto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/item_reserva.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/snackbar_custom.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/spinner_item_fonts.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/spinner_item_text.xml" value="0.2" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/spinner_item_text_tipo_op.xml" value="0.264" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/layout/switch_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/menu/menu_lista_operaciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo_round.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_logo_azul.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_logo_azul_round.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_logo_rojo.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/ic_logo_rojo_round.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/logo_transparent.xml" value="0.2703125" />
+        <entry key="..\:/Documentos/Proyecto Spica/ultima_version_copia/App_Barcode_Manager_Spica/app/src/main/res/mipmap-anydpi-v26/logo_transparent_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/eliminar__1_.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/ic_baseline_person.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/ic_exclamation.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/ic_sharp_date_range_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable-v24/linterna.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/barcode.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/edit_button.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/eliminar.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/event_busy_01.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/exit_top_right.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/flecha.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_date_range_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.2" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_book_24.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/logo_transparent_background.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/marcador_de_posicion.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/operacion.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/proyecto__1_.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/round_background.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/round_border.xml" value="0.2" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape_border.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/shape_circleindicator.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/video_camera.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/wave__4_.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/drawable/wave__5_.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_cerrar_sesion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_configuracion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_custom_scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_manual_pdf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_operacion.xml" value="0.264" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_reserva.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/custom_barcode_scanner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_barcode_no_encontrado.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_config.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_eliminar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_nuevo_escaneo.xml" value="0.264" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/dialog_selector_proyectos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment__scanner.xml" value="0.264" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_contenedor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/fragment_lista.xml" value="0.264" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/item_progress_footer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/item_proyecto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/item_reserva.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/snackbar_custom.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/spinner_item_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/App_Barcode_Manager_Spica/app/src/main/res/layout/spinner_item_text_tipo_op.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

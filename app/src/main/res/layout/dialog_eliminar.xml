@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/ic_launcher_logo_background">
+
+    <TextView
+        android:id="@+id/tv_operacion_dialog"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/barlow"
+        android:text="@string/datos_reserva"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_txt_dialog" />
+
+    <TextView
+        android:id="@+id/tv_fechaSalidaFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:fontFamily="@font/barlow"
+        android:text="@string/fechaSalidaFinal"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_operacion_dialog" />
+
+    <TextView
+        android:id="@+id/tv_guionFechas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:fontFamily="@font/barlow"
+        android:text="@string/guionFechas"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toEndOf="@+id/tv_fechaSalidaFinal"
+        app:layout_constraintTop_toTopOf="@+id/tv_fechaSalidaFinal" />
+
+    <TextView
+        android:id="@+id/tv_fechaEntradaFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:fontFamily="@font/barlow"
+        android:text="@string/fechaEntradaFinal"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toEndOf="@+id/tv_guionFechas"
+        app:layout_constraintTop_toBottomOf="@+id/tv_operacion_dialog" />
+
+    <TextView
+        android:id="@+id/tv_txt_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_weight="2"
+        android:fontFamily="@font/barlow"
+        android:text="@string/mensaje"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_eliminar_dialog"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_gravity="end"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="16dp"
+        android:layout_weight="0"
+        android:background="@drawable/round_background"
+        android:fontFamily="@font/barlow"
+        android:paddingStart="15dp"
+        android:paddingTop="0dp"
+        android:paddingEnd="15dp"
+        android:paddingBottom="0dp"
+        android:text="@string/eliminar"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btn_cancelar_dialog"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/btn_cancelar_dialog"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_gravity="end"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"
+        android:layout_weight="0"
+        android:background="@drawable/round_background"
+        android:fontFamily="@font/barlow"
+        android:paddingStart="15dp"
+        android:paddingTop="0dp"
+        android:paddingEnd="15dp"
+        android:paddingBottom="0dp"
+        android:text="@string/cancelar"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_fechaSalidaFinal"
+        tools:ignore="TouchTargetSizeCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
