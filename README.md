@@ -10,4 +10,4 @@ A la app se accede mediante login. Las credenciales se crearán desde el program
 
 La app permite también cambiar la dirección IP y el puerto del servidor por si fuera necesario.
 
-[![Pantalla-Splash.jpg](https://i.postimg.cc/C5twzjdC/Pantalla-Splash.jpg)](https://postimg.cc/JHbfFHNt)
+[![Pantalla-Splash.jpg](https://i.postimg.cc/SNvnMMHv/Pantalla-Splash.jpg)](https://postimg.cc/SJcQ0JS6)
