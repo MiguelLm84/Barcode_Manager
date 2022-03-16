@@ -9,3 +9,5 @@ Los códigos de barras se podrán cargar a mano o mediante el scanner incorporad
 A la app se accede mediante login. Las credenciales se crearán desde el programa administrativo desarrollado para tal fin y para demás servicios desarrollado.
 
 La app permite también cambiar la dirección IP y el puerto del servidor por si fuera necesario.
+
+[![Splash.jpg](https://i.postimg.cc/QtT98xfy/Splash.jpg)](https://postimg.cc/PpdrKhsW)
