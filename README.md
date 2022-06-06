@@ -10,6 +10,14 @@ A la app se accede mediante login. Las credenciales se crearán desde el program
 
 La app permite también cambiar la dirección IP y el puerto del servidor por si fuera necesario.
 
+![Menu_lateral_con_modo_oscuro](https://user-images.githubusercontent.com/72008078/172192839-cf14a4f7-8462-4a68-bcc8-3b9fa0ca3fa6.jpg)
+![Pantalla_principal_modo_oscuro](https://user-images.githubusercontent.com/72008078/172192725-59779caf-93d2-4346-be41-4f89914383ad.jpg)
+
+
+
+
+
+
 [![Pantalla-Login-modo-oscuro.jpg](https://i.postimg.cc/3wd5Dy5n/Pantalla-Login-modo-oscuro.jpg)](https://postimg.cc/xkDFw1dz)
 [![Menu-lateral-con-modo-oscuro.jpg](https://i.postimg.cc/3RfkF0dN/Menu-lateral-con-modo-oscuro.jpg)](https://postimg.cc/5Yv9x05W)
 [![Pantalla-principal-modo-oscuro.jpg](https://i.postimg.cc/RVFjQFGj/Pantalla-principal-modo-oscuro.jpg)](https://postimg.cc/PNg3ddg4)
