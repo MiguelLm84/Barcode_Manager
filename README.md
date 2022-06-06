@@ -12,6 +12,10 @@ La app permite también cambiar la dirección IP y el puerto del servidor por si
 
 [![Pantalla-Login-modo-oscuro.jpg](https://i.postimg.cc/3wd5Dy5n/Pantalla-Login-modo-oscuro.jpg)](https://postimg.cc/xkDFw1dz)
 [![Menu-lateral-con-modo-oscuro.jpg](https://i.postimg.cc/3RfkF0dN/Menu-lateral-con-modo-oscuro.jpg)](https://postimg.cc/5Yv9x05W)
+
+![Menu_lateral_con_modo_oscuro](https://user-images.githubusercontent.com/72008078/172157210-6d47635d-7546-43b3-bff6-0f4c9608e2b6.jpg)
+
+
 [![Pantalla-principal-modo-oscuro.jpg](https://i.postimg.cc/grF83LTR/Pantalla-principal-modo-oscuro.jpg)](https://postimg.cc/8f47ScDP)
 [![Scanner-4.jpg](https://i.postimg.cc/SxrSd8GN/Scanner-4.jpg)](https://postimg.cc/zyyYXyM9)
 [![Pantalla-registrar-reserva.jpg](https://i.postimg.cc/YCSD9JQH/Pantalla-registrar-reserva.jpg)](https://postimg.cc/nC6GSSdR)
