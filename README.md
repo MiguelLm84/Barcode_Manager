@@ -16,6 +16,7 @@ La app permite también cambiar la dirección IP y el puerto del servidor por si
 ![Pantalla_nueva_reserva_modo_oscuro](https://user-images.githubusercontent.com/72008078/172197469-38416b76-5707-4622-9880-1c7103818cb0.jpg)
 ![Pantalla_rangePicker_modo_oscuro](https://user-images.githubusercontent.com/72008078/172197560-69e3b556-a107-4bfe-a7bb-e20f50158bb6.jpg)
 
+![Pantalla_historial_proyectos_modo_oscuro](https://user-images.githubusercontent.com/72008078/172197897-46461572-9c40-4afe-9c5f-8af45d04322e.jpg)
 
 
 
