@@ -18,16 +18,3 @@ La app permite también cambiar la dirección IP y el puerto del servidor por si
 ![Pantalla_rangePicker_modo_oscuro](https://user-images.githubusercontent.com/72008078/172197560-69e3b556-a107-4bfe-a7bb-e20f50158bb6.jpg)
 ![Pantalla_historial_proyectos_modo_oscuro](https://user-images.githubusercontent.com/72008078/172197897-46461572-9c40-4afe-9c5f-8af45d04322e.jpg)
 ![Pantalla_editar_reserva_dark_mode](https://user-images.githubusercontent.com/72008078/172199920-a5ce52ca-c483-4c48-89e7-30340d86127d.jpg)
-
-
-
-
-
-[![Pantalla-Login-modo-oscuro.jpg](https://i.postimg.cc/3wd5Dy5n/Pantalla-Login-modo-oscuro.jpg)](https://postimg.cc/xkDFw1dz)
-[![Menu-lateral-con-modo-oscuro.jpg](https://i.postimg.cc/3RfkF0dN/Menu-lateral-con-modo-oscuro.jpg)](https://postimg.cc/5Yv9x05W)
-[![Pantalla-principal-modo-oscuro.jpg](https://i.postimg.cc/RVFjQFGj/Pantalla-principal-modo-oscuro.jpg)](https://postimg.cc/PNg3ddg4)
-[![Scanner-4.jpg](https://i.postimg.cc/SxrSd8GN/Scanner-4.jpg)](https://postimg.cc/zyyYXyM9)
-[![Pantalla-registrar-reserva.jpg](https://i.postimg.cc/YCSD9JQH/Pantalla-registrar-reserva.jpg)](https://postimg.cc/nC6GSSdR)
-[![Pantalla-range-Picker-modo-oscuro.jpg](https://i.postimg.cc/Y9QbZkB1/Pantalla-range-Picker-modo-oscuro.jpg)](https://postimg.cc/1n5GVktt)
-[![Pantalla-historial-proyectos-modo-oscuro.jpg](https://i.postimg.cc/nzfTRbzx/Pantalla-historial-proyectos-modo-oscuro.jpg)](https://postimg.cc/p9kDrSzc)
-[![Pantalla-editar-reserva-modo-oscuro.jpg](https://i.postimg.cc/L4C1Sw4f/Pantalla-editar-reserva-modo-oscuro.jpg)](https://postimg.cc/HjMx4Sys)
